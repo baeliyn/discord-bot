@@ -1,0 +1,21 @@
+Evet şimdi sırayla size bu botu bedava bir şekilde 7/24 aktif tutmak için yapmanız gerekenleri anlatacağım
+
+1.İlk olarak repl.it sitesine kaydolun ve bu dosyalardaki komutları aynı adla aynı şekilde düzenlemelerinizi yaptıktan sonra atın
+
+2.küp şekline tıklayıp arama kısmına discord yazıp paketi indirin merak etmeyin diğer importları kendisi indirecektir eğer herhangi bir problemle karşılaşırsanız bizimle iletişime geçmeyi unutmayın
+
+2.uptimerobot.coma girin ve kaydolun orada add new monitor diyerek yein bir monitör ekleyin
+
+3.monitörün tipine https diyin ve friendly name'e adı girin
+
+4.url kısmına botu çalıştırdığınızda sol taraf ikiye bölünmüştü ve üstte bir site ve bağlantı vardı ya işte oradaki bağlantıyı yapıştırın
+
+5.ve monitörü oluşturun artık bundan sonra botunuza belli aralıklarla mesaj gidecektir ve bu sayede aktif kalacaktır
+
+!UYARI: Unutmayın eğer repl.it'e 7 dolar vererek hacker paketini almazsanız yaptığınız projeyi gizleyemezsiniz bu durumda da insanlar gelip bakabilir
+insanların bakmaması için garip bir ad verebilirsiniz ve her girişinizde değiştirerek sunucunuzu güven altında tutabilirsiniz
+
+Biz bu botu repl.it üzerinden yaptık eğer bize ulaşabilirsiniz anlaşarak repl.it'e göre yazılmış olan bu komudu
+bilgisayar versiyonuna uyarlayarak size verebiliriz ama bu durumda da yaklaşık 40 tl vererek sanal bilgisayarda aktif tutmanız lazım botu 
+kısacası bir sorunuz veya isteğiniz olursa bot sahibiyle veya sunucudaki bir yetkiliyle iletişime geçebilirsinzi size anında (muhtemelen komudun sahibi tarafından)
+cevap verilecektir.
